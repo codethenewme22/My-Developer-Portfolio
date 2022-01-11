@@ -1,10 +1,18 @@
-#Uncle-Bob{
-
-
+#Uncle-Bob{ text-align:center;
 }
+
 #slaves{color:yellowgreen;}
 #ub1{color:rgb(27, 109, 31)}
 #ub2{color:tomato}
 .ub3{text-decoration-line: underline;}
 h4{text-align:center;}
 .heading-font{font-family: 'Mochiy Pop P One', sans-serif;}
+section{display: flex;}
+.half-width{width: 100%;}
+.half-width img{ float:right;
+  width: 40%;
+  padding: 0 10px 0 0;
+}
+.text{text-align: justify;}
+
+
