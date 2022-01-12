@@ -1,18 +1,35 @@
+body{margin: 0%;}
 #Uncle-Bob{ text-align:center;
+  padding-left: 10px;
 }
-
+.ltc{padding: 20px;}
+.author{text-align: right;}
 #slaves{color:yellowgreen;}
 #ub1{color:rgb(27, 109, 31)}
 #ub2{color:tomato}
 .ub3{text-decoration-line: underline;}
 h4{text-align:center;}
-.heading-font{font-family: 'Mochiy Pop P One', sans-serif;}
+.heading-font{font-family: 'Mochiy Pop P One', sans-serif;
+  padding: 20px;}
 section{display: flex;}
 .half-width{width: 100%;}
+
 .half-width img{ float:right;
   width: 40%;
-  padding: 0 10px 0 0;
+  padding-left: 5%
 }
-.text{text-align: justify;}
+.p-text{text-align: justify;
+padding: 20px;}
+.hire-me-button{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 10px 30px;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
+}
+.top-banner{background-image: url(images/top-banner.png);
+  background-repeat: no-repeat;
+}
 
 
